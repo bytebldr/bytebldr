@@ -190,8 +190,8 @@ I build fast web apps, cloud services, and developer tools. I love creating smoo
 ```console
 suvesh@desktop:~/github$ gh release list --limit 8 --repo bytebldr
 
-01. 🚀  edge-download-manager v0.0.14EDM v0.0.14                           [latest]
-02. 🚀  edge-download-manager v0.0.13EDM v0.0.13                           [v0.0.13]
+01. 🚀  edge-download-manager v0.0.16EDM v0.0.16                           [latest]
+02. 🚀  edge-download-manager v0.0.15EDM v0.0.15                           [v0.0.15]
 03. 🚀  Universal-Shared v0.2.4 Core Shared Library                   [pkg:core]
 04. 🚀  NetPulse v1.2           Real-Time Network Speed & Latency     [edge:v1.2]
 05. 🚀  NetPulse v1.1           Real-Time Network Speed & Latency     [edge:v1.2]
