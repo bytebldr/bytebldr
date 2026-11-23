@@ -190,13 +190,13 @@ I build fast web apps, cloud services, and developer tools. I love creating smoo
 ```console
 suvesh@desktop:~/github$ gh release list --limit 8 --repo bytebldr
 
-01. 🚀  edge-download-manager v0.0.26EDM v0.0.26                           [latest]
-02. 🚀  edge-download-manager v0.0.25EDM v0.0.25                           [v0.0.25]
-03. 🚀  Universal-Shared v0.2.4 Core Shared Library                   [pkg:core]
-04. 🚀  NetPulse v1.2           Real-Time Network Speed & Latency     [edge:v1.2]
-05. 🚀  NetPulse v1.1           Real-Time Network Speed & Latency     [edge:v1.2]
-06. 🚀  Settlr v0.0.9           Android Financial Settlement Engine   [app:v0.9]
-07. 🚀  UnitWise v0.0.8         Wi-Fi & Bluetooth Device Discovery    [iot:ble]
-08. 🚀  UnitWise v0.0.7         Wi-Fi & Bluetooth Device Discovery    [iot:ble]
+01. 🚀  jobscrap v0.5           Multi-Platform Job Search Pipeline    [latest]
+02. 🚀  edge-download-manager v0.0.27EDM v0.0.27                           [v0.0.27]
+03. 🚀  edge-download-manager v0.0.26EDM v0.0.26                           [v0.0.26]
+04. 🚀  Universal-Shared v0.2.4 Core Shared Library                   [pkg:core]
+05. 🚀  NetPulse v1.2           Real-Time Network Speed & Latency     [edge:v1.2]
+06. 🚀  NetPulse v1.1           Real-Time Network Speed & Latency     [edge:v1.2]
+07. 🚀  Settlr v0.0.9           Android Financial Settlement Engine   [app:v0.9]
+08. 🚀  UnitWise v0.0.8         Wi-Fi & Bluetooth Device Discovery    [iot:ble]
 ```
 <!-- RECENT_RELEASES_END -->
