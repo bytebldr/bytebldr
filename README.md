@@ -190,9 +190,9 @@ I build fast web apps, cloud services, and developer tools. I love creating smoo
 ```console
 suvesh@desktop:~/github$ gh release list --limit 8 --repo bytebldr
 
-01. 🚀  jobscrap v0.5           Multi-Platform Job Search Pipeline    [latest]
-02. 🚀  edge-download-manager v0.0.27EDM v0.0.27                           [v0.0.27]
-03. 🚀  edge-download-manager v0.0.26EDM v0.0.26                           [v0.0.26]
+01. 🚀  edge-download-manager v0.0.28EDM v0.0.28                           [latest]
+02. 🚀  jobscrap v0.5           Multi-Platform Job Search Pipeline    [crawler]
+03. 🚀  edge-download-manager v0.0.27EDM v0.0.27                           [v0.0.27]
 04. 🚀  Universal-Shared v0.2.4 Core Shared Library                   [pkg:core]
 05. 🚀  NetPulse v1.2           Real-Time Network Speed & Latency     [edge:v1.2]
 06. 🚀  NetPulse v1.1           Real-Time Network Speed & Latency     [edge:v1.2]
