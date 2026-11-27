@@ -190,8 +190,8 @@ I build fast web apps, cloud services, and developer tools. I love creating smoo
 ```console
 suvesh@desktop:~/github$ gh release list --limit 8 --repo bytebldr
 
-01. 🚀  evo-download-manager v0.1.1EDM v0.1.1                            [latest]
-02. 🚀  evo-download-manager v0.1.0EDM v0.1.0                            [v0.1.0]
+01. 🚀  evo-download-manager v0.1.3EDM v0.1.3                            [latest]
+02. 🚀  evo-download-manager v0.1.2EDM v0.1.2                            [v0.1.2]
 03. 🚀  jobscrap v0.5           Multi-Platform Job Search Pipeline    [crawler]
 04. 🚀  Universal-Shared v0.2.4 Core Shared Library                   [pkg:core]
 05. 🚀  NetPulse v1.2           Real-Time Network Speed & Latency     [edge:v1.2]
